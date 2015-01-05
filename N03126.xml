@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:003776_0000_100259E49AEE6CA8"/>
-            <pb facs="tcp:003776_0001_100259E69B7CD998" rendition="simple:additions"/>
+            <pb facs="unknown:003776_0000_100259E49AEE6CA8"/>
+            <pb facs="unknown:003776_0001_100259E69B7CD998"
+                rendition="simple:additions"/>
             <p>EXPLANATORY LECTURES ON THE ORRERY, <hi>Armillary Sphere, Globes</hi> and other <hi>Machines, Instruments,</hi> and <hi>Schemes</hi> made use of by ASTRONOMERS: Accompanied With a great Variety of PHYSICAL EXPERIMENTS and CURIOUS REMARKS.</p>
             <p>By ISAAC GREENWOOD, A. M. HOLLISIAN <hi>Professor</hi> of Philosophy &amp; Mathematicks.</p>
             <p>
@@ -121,7 +122,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:003776_0002_100259E90F5E4F98"/>
+            <pb facs="unknown:003776_0002_100259E90F5E4F98"/>
             <head>THESE ASTRONOMICAL LECTURES TREAT, Very Particularly,</head>
             <div type="part">
                <head>I. Of the <hi>Sun</hi> and <hi>Earth</hi>; and their <hi>proper Motions.</hi>
@@ -144,7 +145,7 @@
                         <desc>〈◊〉</desc>
                      </gap> of the Nature</hi> and easily <hi>retaining the Memory</hi> of all ASTRONOMICAL Circles, and the <hi>Terms</hi> arising from them; without any Confusion or Obscurity.</p>
                <p>And as the Definition and <hi>Impression of Terms</hi> on their Me<g ref="char:EOLhyphen"/>mory is the least delightful Part of this Course, the Author
-<pb facs="tcp:003776_0003_100259EB41D95BB0"/>
+<pb facs="unknown:003776_0003_100259EB41D95BB0"/>
 has, occasionally, interspersed a great Variety of <hi>Physical Learning, a propos</hi>; which is a <hi>new Ornament</hi> to this Subject.</p>
                <p>In the two following Lectures, the <hi>Uses</hi> of the <hi>Armillary-Sphere, Globes, Mapps,</hi> and <hi>Plani-spheres</hi> are shewn.</p>
             </div>
@@ -186,7 +187,7 @@ has, occasionally, interspersed a great Variety of <hi>Physical Learning, a prop
                </p>
             </div>
             <div type="part">
-               <pb facs="tcp:003776_0004_100259EE2372D058"/>
+               <pb facs="unknown:003776_0004_100259EE2372D058"/>
                <head>V. Of the <hi>Phaenomena</hi> and <hi>Consequences</hi> of such a <hi>System</hi> of the <hi>Planets, Comets</hi> and <hi>Fixt Stars:</hi> and of the <hi>Theory</hi> and <hi>Practice</hi> of <hi>Astronomical Calculations</hi>; for any Time <hi>past</hi> or <hi>future.</hi>
                </head>
                <p>These PHAENOMENA and CONSEQUENCES are of diffe<g ref="char:EOLhyphen"/>rent kinds, which will be the <hi>Subject</hi> of the <hi>remaining Lectures.</hi>
